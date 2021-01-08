@@ -35,7 +35,10 @@ Screenshots of AllLine Budget Tracker:
 
 
 
+<img width="1154" alt="homework budget tracker" src="https://user-images.githubusercontent.com/70128888/103980579-fd045180-5134-11eb-8de0-6b0ff7ad82d8.png">
 
+
+https://user-images.githubusercontent.com/70128888/103982328-24a8e900-5138-11eb-97ea-30350d3ad343.mp4
 
 
 
